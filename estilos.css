@@ -1,0 +1,29 @@
+div{
+			margin: 20px;
+			display: block;
+		}
+		label{
+			margin: 20px;
+		}
+		input{
+			font-style: all;
+			height: 20px;
+			width: 200px;
+			background-color: rgba(0, 250, 0, 0.2);
+		}
+		table{
+			border-width: 10px;
+			border-style: double;
+			border-color: rgba(0, 150, 150, 1.0);
+		}
+		select{
+			height: 20px;
+			width: 200px;
+			background-color: rgba(0, 250, 0, 0.2);
+		}
+		button{
+			font-style: all;
+			height: 20px;
+			width: 200px;
+			background-color: rgba(0, 250, 0, 0.2);
+		}
